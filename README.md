@@ -14,3 +14,6 @@ I have created one in this package already
 
 * Check the status of the service
 `sudo systemctl status hub.service`
+
+### 
+Install gradle on ubuntu: https://linuxhint.com/installing_gradle_ubuntu/
