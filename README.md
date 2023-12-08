@@ -2,7 +2,7 @@
 ### Run a service on EC2
 * Create a service file hub.service
   
-  `sudo vim /etc/systemd/system/email.service`
+  `sudo vim /etc/systemd/system/hub.service`
   
 I have created one in this package already
   
